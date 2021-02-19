@@ -1,4 +1,6 @@
+// Määritetään funktio
 function ehto(){
+  // määritetään kaksi muuttujaa
   var nimi, nimi2;
   nimi = 'Jaana';
   nimi2 = 'Jyri';

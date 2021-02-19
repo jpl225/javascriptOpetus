@@ -1,3 +1,4 @@
+// määritetään funktio
 function jarjesta()
 {
   var luku1, luku2, luku3;
@@ -100,7 +101,7 @@ function etsiSuurin()
   function kaanna()
   {
     var lang = document.getElementById('kieli').value;
-    if(lang == 'eng') 
+    if(lang == 'eng')
     {
       document.write("Hello world!");
     }
